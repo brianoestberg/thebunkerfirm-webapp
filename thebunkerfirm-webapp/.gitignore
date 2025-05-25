@@ -1,5 +1,6 @@
 # Cline configuration
 .clinerules/
+../.clinerules/
 
 # Environment variables
 .env
