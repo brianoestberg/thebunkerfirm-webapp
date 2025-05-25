@@ -1,0 +1,10 @@
+Dette er en testfil oprettet med MCP Filesystem serveren!
+
+Serveren kan:
+- Læse og skrive filer
+- Oprette og liste directories
+- Flytte filer
+- Søge efter filer
+- Hente fil metadata
+
+Dato: 25. maj 2025
